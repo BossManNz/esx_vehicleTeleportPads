@@ -15,7 +15,7 @@ start esx_vehicleTeleportPads
 ```
 
 ### License
-esx_teleportpads - teleport pads for ESX
+esx_vehicleTeleportPads - vehicle teleport pads for ESX
 
 Copyright (C) 2018 ESX-PUBLIC
 
